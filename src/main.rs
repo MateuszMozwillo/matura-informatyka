@@ -67,5 +67,7 @@ fn bin_to_int(bin: &str) -> i32 {
 }
 
 fn int_to_bin(int: i32) -> String {
+    let mut wynik = "asd".to_string();
 
+    wynik
 }
